@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: python-louvain
+Version: 0.4
+Summary: Louvain algorithm for community detection
+Home-page: http://perso.crans.org/aynaud/communities/
+Author: Thomas Aynaud
+Author-email: taynaud@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Development Status :: 4 - Beta
